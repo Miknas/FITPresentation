@@ -1,0 +1,6 @@
+framework module Pods_CIFIT {
+  umbrella header "Pods-CIFIT-umbrella.h"
+
+  export *
+  module * { export * }
+}

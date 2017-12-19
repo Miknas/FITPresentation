@@ -1,0 +1,6 @@
+framework module Pods_CIFITTests {
+  umbrella header "Pods-CIFITTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
